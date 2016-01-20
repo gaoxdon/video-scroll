@@ -20,3 +20,5 @@ var viScroll = new videoScroll('viScroll', {
 ```
 
 *[DEMO](http://gaoprotest.applinzi.com/)
+
+PS:部分浏览器卡顿，欢迎fork 或者 提出修改意见。
