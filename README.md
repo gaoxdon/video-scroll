@@ -8,10 +8,9 @@
 <div id="viScroll"></div>
 
 js调用
-<script>
-	var viScroll = new videoScroll('viScroll', {
-		url: "video/91cdbc49-b42a-4ddb-a481-9c47f944e901.mp4", //视频地址
-		totalHeight: 500 //占用高度
-	});
-</script>
+
+var viScroll = new videoScroll('viScroll', {
+	url: "video/91cdbc49-b42a-4ddb-a481-9c47f944e901.mp4", //视频地址
+	totalHeight: 500 //占用高度
+});
 
