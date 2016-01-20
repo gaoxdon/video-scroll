@@ -1,9 +1,11 @@
 # video-scroll
 
 模仿苹果官网 鼠标滚动控制视频动画
+
 原生js
 
 使用方法：
+
 添加DOM
 ```
 <div id="viScroll"></div>
